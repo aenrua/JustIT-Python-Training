@@ -1,0 +1,6 @@
+INFO:root:On Wed Feb 28 09:49:18 2024
+Divided 1 / 5 = 0.2
+WARNING:root:On Wed Feb 28 09:49:31 2024
+User attempted to divide by zero
+WARNING:root:On Wed Feb 28 09:59:03 2024
+User attempted to divide by zero

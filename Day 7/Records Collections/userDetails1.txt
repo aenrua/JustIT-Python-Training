@@ -1,0 +1,1 @@
+Key: Fullname, Value: Anton AgejevKey: Address, Value: 31 Malvern Road, Hampton, LondonKey: Interest, Value: CodingKey: Age, Value: 28
